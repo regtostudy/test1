@@ -1,0 +1,39 @@
+    {
+    
+    "作者":"🦋",
+    
+    "站名":"腐剧TV",
+    
+    "主页url":"https://www.fuju1.tv",
+    
+    "导演":"导演：&&</div>",
+    
+    "主演":"主演：&&</div>",
+    
+    "影片状态":"集数：&&</div>",
+    
+    "影片类型":"video-info-aux scroll-content\">&&立即播放",
+    
+    "数组":"myui-vodlist__detail&&</a>",  
+     
+    "标题":"title=\"&&\"",
+    
+    "副标题":"module-item-text\"&&</div>",
+    
+    "图片":"data-src=\"&&\"",
+    
+    "链接":"href=\"&&\"",
+    
+    "搜索url":"/vodsearch.html?wd={wd}",
+    
+    "链接前缀": "/vodsearch.html?wd=",
+    
+    "链接后缀": "&submit=", 
+    
+    "搜索数组": "<div class=\"myui-vodlist__box\">&&</div>",
+    
+    "分类url":"http://www.fuju1.tv/{cateId}/index{catePg}.html[http://www.fuju1.tv/{cateId}/index.html];;ak",
+    
+    "分类":"腐剧$Fuju#电影$BLdianying#动漫$BLdongman#综艺$BLzongyi"
+   
+   }
